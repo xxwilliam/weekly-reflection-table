@@ -55,6 +55,7 @@
   <tr>
     <td><b>Troy</b></td>
     <td><b>Group Processes-</b> Troy to collate information for Assignment 2.</td>
+  </table>
    <table id="customers">
   <tr>
     <th>Week 2</th>
@@ -86,6 +87,7 @@
   <tr>
     <td><b> Alex</b></td>
     <td><b>Platform-</b> Alex has found the preferred platform AWS.</td>
+  </table>
    <table id="customers">
   <tr>
     <th>Week 3</th>
