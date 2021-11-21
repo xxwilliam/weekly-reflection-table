@@ -79,7 +79,7 @@
   <tr>
     <td><b> Alex</b></td>
     <td><b>Platform-</b> Alex has found the preferred platform AWS.</td>
-  </table>
+  
    <table id="customers">
   <tr>
     <th>Week 3</th>
