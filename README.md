@@ -102,7 +102,8 @@
     </tr>
     <tr>
     <td><b>Madiha</b></td>
-    <td></td>
+      <td><p>Researching skills, software and tools needed for ther project,</p>
+        <p>Research AWS.</p></td>
     </tr>
     <tr>
     <td><b>Troy</b></td>
