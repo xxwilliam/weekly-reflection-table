@@ -56,7 +56,8 @@
    <table id="customers">
   <tr>
     <th>Week 2</th>
-    <th>Tasks</th>    
+    <th>Tasks</th>
+    
   </tr>
   <tr>
     <td><b>All Team</b></td>
@@ -83,7 +84,8 @@
    <table id="customers">
   <tr>
     <th>Week 3</th>
-    <th>Tasks</th>   
+    <th>Tasks</th>
+    
   </tr>  
   <tr>
     <td><b>Alex </b></td>
@@ -108,7 +110,8 @@
        <table id="customers">
   <tr>
     <th>Week 4</th>
-    <th>Tasks</th>   
+    <th>Tasks</th>
+    
   </tr>
     <tr>
       <td><b>Madiha</b></td>
@@ -129,7 +132,8 @@
          <table id="customers">
   <tr>
     <th>Week 5</th>
-    <th>Tasks</th> 
+    <th>Tasks</th>
+    
          </tr>
          <tr>  
            <td><b>Alex</b></td>
