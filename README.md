@@ -95,7 +95,8 @@
     </tr>
     <tr>
     <td><b>Sam</b></td>
-    <td>To collate and create our weekly reflection.</td>
+      <td><p>To collate and create our weekly reflection.</p>
+        <p>Create a breakdown of the matrix in a to do list</p></td>
     </tr>
     <tr>
     <td><b>Madiha</b></td>
@@ -104,7 +105,50 @@
     <tr>
     <td><b>Troy</b></td>
     <td>To work on GitHub,</td>
+       <table id="customers">
+  <tr>
+    <th>Week 4</th>
+    <th>Tasks</th>   
+  </tr>
+    <tr>
+      <td><b>Madiha</b></td>
+      <td>Tools and Technologies needed for our project.Skills required for key positions and jobs</td>
     </tr>
+     <tr>
+       <td><b>Sam</b></td>
+       <td>Commenced plan and progress and unpacks all elements of the initial stages of website</td>
+         </tr>
+         <tr>
+           <td><b>troy</b></td>
+           <td>Created GitHub, Testing and Risk.</td>
+         </tr>
+         <tr>
+           <td><b>Alex</b></td>
+           <td>Career plan, Tools, Topic, Movivation, Aims.</td>
+         </tr>
+         <table id="customers">
+  <tr>
+    <th>Week 5</th>
+    <th>Tasks</th> 
+         </tr>
+         <tr>  
+           <td><b>Alex</b></td>
+           <td>Plans and progresses, Roles, Scope and limits.</td>
+           </tr>
+           <tr>
+          <td><b>Sam</b></td>
+          <td><p>Support time-management, manage topics needing attention and individual group reflection.</p>
+           <p>Review project for grammer and design layout</p></td>
+           </tr>
+           <tr>
+             <td><b>Madiha</b></td>
+             <td>Individual group reflection, group reflection, skills and jobs.</td>
+           </tr>
+           <tr>
+             <td><b>Troy</b></td>
+             <td>Transfer all project content to github</td>
+           </tr>
+   
     
  
 </table>
