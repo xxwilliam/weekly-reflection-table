@@ -69,7 +69,8 @@
   <tr>
     <td><b>Madiha</b></td>
     <td><p><b>- Career Path-</b> To combine all career paths and complete overall resualt.</p>
-      <p><b>- Research.</b></p></td>
+      <p><b>- Research.</b></p>
+    </td>
     
   </tr>
   <tr>
