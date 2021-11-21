@@ -14,7 +14,7 @@
   padding: 8px;
 }
 
-#customers tr:nth-child(even){background-color: #FOFFFF;}
+
 
 
 
